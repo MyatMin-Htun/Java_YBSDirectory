@@ -9,11 +9,17 @@ This is a Group project for Myanmar DCR where I have to work as a main Lead Deve
 You can clone and download repo for study purpose, but DID NOT USE FOR COMMERCIAL PURPOSE.
 
 - how to use -
+
 #1 First clone and download this repository.
+
 #2 You can see [ybsDirectory_DB 20200208 1214.sql] inside the folder.
+
 #3 Restore the file from #2 in MySQLAdministrator.
+
 #4 Open (Import) the project folder in your IDE.
+
 #5 Change Database connection in [(your path)//Java_YBSDirectory/src/ybsDirectory/DBConnection.java] of getDBConnection() method to your DB localhost, user name and password.
+
 #6 Run [UserLogIn.java] file and Boom! Enjoy.
 
 Functions Include
