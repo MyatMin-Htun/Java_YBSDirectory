@@ -1,6 +1,7 @@
 # Java_YBSDirectory v1.0
  
 Java 8, MySQL 5.0
+
 IDE used (Eclipse LUNA, NetBeans 8.2 (for UI Development), backend - MySQL Administrator, MySQLQueryBrowser)
  
 This is a Group project for Myanmar DCR where I have to work as a main Lead Developer which is developed back in April, 2019. The project is about managing Bus Line in Myanmar and also can search which bus goes which bus routes. This project is developed within two weeks so the data used in there is dummy. This was developed back in my fresher days where I didn't think much about Maintainable, so I apologize for not making strong documentation. But if you have questions, contact me at myoukgyi72@gmail.com.
