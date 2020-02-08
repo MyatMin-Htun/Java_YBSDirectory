@@ -17,15 +17,25 @@ You can clone and download repo for study purpose, but DID NOT USE FOR COMMERCIA
 #6 Run [UserLogIn.java] file and Boom! Enjoy.
 
 Functions Include
+
 #1 Login to the system.
+
 #2 In MainMenu, there include 2 parts
+
      +1 Information Search
+     
      +2 Information Management
+     
 #3 Add Data from [Information Management].
+
 (In Route Management, there are 3 parts.
+
      +1 Bus Stop - created bus-stop can be selected from [Bus Route]. But first, you must choose Bus Number if you are going to create new route.
+     
      +2 Bus Line - created bus line can be selected from [Bus Route].
+     
      +3 Bus Route - you can create new or update existing routes. If it is more than 16 bus-stops, don't worry, just click [Continue] until you don't need to add anymore. Once you finished, click [Finish]. In Update, you can update 16 bus stops Firstly, extra bus-stop will be inside [Bus Routes::] fields, click [Next] if you want to update later parts. I used Pipe Line Data Logic here but there is not previous function (as time was limited back in the development days), so if you want to update last parts, Click [Finish] and choose [Bus Number] again and repeat the process. Sorry for inconvenience. ## You cannot add or update Same Bus-stop adjacently!
+     
 #4 In [Bus-Stop Search], you can choose Bus Number and click [Search]. I used Pipe Line Processing Logic here too, so you can see Extra bus-stop that don't display by clicking [Next] button. If you want to go back and see previous bus-stop, click [Previous] button.
 
 Note :: Do not use maximize button and close button, as I haven't disabled maximize button and I didn't scale the form for full-screen Display mode. For close button, I haven't developed Form_closing event. I will make changes once I am back to develop this project for further updates, but I have no plan for this project right now.
